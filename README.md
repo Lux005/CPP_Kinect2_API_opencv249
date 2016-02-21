@@ -2,4 +2,5 @@
 Kinect2.0 operation lib.
 
 MS sample code. 
-Modified to be compatible with OpenCV2.49
+
+Modified to be used with OpenCV2.49
